@@ -68,7 +68,7 @@ body {
 	z-index: 0;
 }
 
-.picture img {
+.picture img, .gallery img {
 	width: 100%;
 
 }
