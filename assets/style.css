@@ -70,6 +70,7 @@ body {
 
 .picture img, .gallery img {
 	width: 100%;
+	height: auto;
 
 }
 #about-me {
