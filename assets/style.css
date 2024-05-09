@@ -68,7 +68,7 @@ body {
 	z-index: 0;
 }
 
-.picture img, .gallery img {
+.picture img, .gallery img, .carousel-item img {
 	width: 100%;
 	height: auto;
 
